@@ -1,1 +1,6 @@
+This file contains all player details
+=====================================
+Virat KOhli - RCB
 Rohit Sharma - MI
+MS Dhoni - CSK
+Hardik Pandya - MI
