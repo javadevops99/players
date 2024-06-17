@@ -1,3 +1,4 @@
 This file contains all player details
 =====================================
+Virat KOhli - RCB
 Rohit Sharma - MI
